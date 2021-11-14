@@ -1,0 +1,308 @@
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\MasterDetails.dll.config
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\MasterDetails.dll
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\MasterDetails.pdb
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\roslyn\csc.exe
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\roslyn\csc.exe.config
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\roslyn\csc.rsp
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\roslyn\csi.exe
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\roslyn\csi.exe.config
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\roslyn\csi.rsp
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\roslyn\System.AppContext.dll
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\roslyn\System.Console.dll
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\roslyn\System.IO.Compression.dll
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\roslyn\System.Security.Claims.dll
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\roslyn\System.ValueTuple.dll
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\roslyn\vbc.exe
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\roslyn\vbc.exe.config
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\roslyn\vbc.rsp
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\roslyn\VBCSCompiler.exe
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\Antlr3.Runtime.dll
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\Newtonsoft.Json.dll
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\System.Web.Helpers.dll
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\System.Web.Mvc.dll
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\System.Web.Optimization.dll
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\System.Web.Razor.dll
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\System.Web.WebPages.dll
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\System.Web.WebPages.Razor.dll
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\WebGrease.dll
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\System.Web.Helpers.xml
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\System.Web.Mvc.xml
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\System.Web.Optimization.xml
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\System.Web.Razor.xml
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\System.Web.WebPages.xml
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\System.Web.WebPages.Razor.xml
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\Newtonsoft.Json.xml
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\Antlr3.Runtime.pdb
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\obj\Debug\MasterDetails.csprojAssemblyReference.cache
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\obj\Debug\MasterDetails.csproj.CoreCompileInputs.cache
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\obj\Debug\MasterDetails.csproj.CopyComplete
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\obj\Debug\MasterDetails.dll
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\obj\Debug\MasterDetails.pdb
+C:\Users\Hasib-ERP\source\repos\MasterDetails\MasterDetails\bin\Oracle.ManagedDataAccess.dll
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\MasterDetails.dll.config
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\MasterDetails.dll
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\MasterDetails.pdb
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\roslyn\csc.exe
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\roslyn\csc.exe.config
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\roslyn\csc.rsp
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\roslyn\csi.exe
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\roslyn\csi.exe.config
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\roslyn\csi.rsp
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\roslyn\System.AppContext.dll
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\roslyn\System.Console.dll
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\roslyn\System.IO.Compression.dll
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\roslyn\System.Security.Claims.dll
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\roslyn\System.ValueTuple.dll
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\roslyn\vbc.exe
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\roslyn\vbc.exe.config
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\roslyn\vbc.rsp
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\roslyn\VBCSCompiler.exe
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\Antlr3.Runtime.dll
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\Newtonsoft.Json.dll
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\Oracle.ManagedDataAccess.dll
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\System.Web.Helpers.dll
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\System.Web.Mvc.dll
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\System.Web.Optimization.dll
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\System.Web.Razor.dll
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\System.Web.WebPages.dll
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\System.Web.WebPages.Razor.dll
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\WebGrease.dll
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\System.Web.Helpers.xml
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\System.Web.Mvc.xml
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\System.Web.Optimization.xml
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\System.Web.Razor.xml
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\System.Web.WebPages.xml
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\System.Web.WebPages.Razor.xml
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\Newtonsoft.Json.xml
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\Antlr3.Runtime.pdb
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\obj\Debug\MasterDetails.csprojAssemblyReference.cache
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\obj\Debug\MasterDetails.csproj.CoreCompileInputs.cache
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\obj\Debug\MasterDetails.csproj.CopyComplete
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\obj\Debug\MasterDetails.dll
+C:\Users\Hasib-ERP\Desktop\MasterDetails\MasterDetails\obj\Debug\MasterDetails.pdb
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\MasterDetails.dll.config
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\MasterDetails.dll
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\MasterDetails.pdb
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\roslyn\csc.exe
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\roslyn\csc.exe.config
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\roslyn\csc.rsp
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\roslyn\csi.exe
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\roslyn\csi.exe.config
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\roslyn\csi.rsp
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\roslyn\System.AppContext.dll
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\roslyn\System.Console.dll
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\roslyn\System.IO.Compression.dll
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\roslyn\System.IO.Pipes.dll
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\roslyn\System.Security.Claims.dll
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\roslyn\System.ValueTuple.dll
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\roslyn\vbc.exe
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\roslyn\vbc.exe.config
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\roslyn\vbc.rsp
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\roslyn\VBCSCompiler.exe
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\Antlr3.Runtime.dll
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\Newtonsoft.Json.dll
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\Oracle.ManagedDataAccess.dll
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\System.Web.Helpers.dll
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\System.Web.Mvc.dll
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\System.Web.Optimization.dll
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\System.Web.Razor.dll
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\System.Web.WebPages.dll
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\System.Web.WebPages.Razor.dll
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\WebGrease.dll
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\System.Web.Helpers.xml
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\System.Web.Mvc.xml
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\System.Web.Optimization.xml
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\System.Web.Razor.xml
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\System.Web.WebPages.xml
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\System.Web.WebPages.Razor.xml
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\Newtonsoft.Json.xml
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\Antlr3.Runtime.pdb
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\obj\Debug\MasterDetails.csprojAssemblyReference.cache
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\obj\Debug\MasterDetails.csproj.CoreCompileInputs.cache
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\obj\Debug\MasterDetails.csproj.CopyComplete
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\obj\Debug\MasterDetails.dll
+C:\Users\hasib\OneDrive\Desktop\MasterDetails\MasterDetails\obj\Debug\MasterDetails.pdb
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\MasterDetails.dll.config
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\MasterDetails.dll
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\MasterDetails.pdb
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\roslyn\csc.exe
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\roslyn\csc.exe.config
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\roslyn\csc.rsp
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\roslyn\csi.exe
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\roslyn\csi.exe.config
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\roslyn\csi.rsp
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\roslyn\System.AppContext.dll
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\roslyn\System.Console.dll
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\roslyn\System.IO.Compression.dll
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\roslyn\System.Security.Claims.dll
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\roslyn\System.ValueTuple.dll
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\roslyn\vbc.exe
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\roslyn\vbc.exe.config
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\roslyn\vbc.rsp
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\roslyn\VBCSCompiler.exe
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\Antlr3.Runtime.dll
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\Newtonsoft.Json.dll
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\Oracle.ManagedDataAccess.dll
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\System.Web.Helpers.dll
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\System.Web.Mvc.dll
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\System.Web.Optimization.dll
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\System.Web.Razor.dll
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\System.Web.WebPages.dll
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\System.Web.WebPages.Razor.dll
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\WebGrease.dll
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\System.Web.Helpers.xml
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\System.Web.Mvc.xml
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\System.Web.Optimization.xml
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\System.Web.Razor.xml
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\System.Web.WebPages.xml
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\System.Web.WebPages.Razor.xml
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\Newtonsoft.Json.xml
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\Antlr3.Runtime.pdb
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\obj\Debug\MasterDetails.csprojAssemblyReference.cache
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\obj\Debug\MasterDetails.csproj.CoreCompileInputs.cache
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\obj\Debug\MasterDetails.csproj.CopyComplete
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\obj\Debug\MasterDetails.dll
+C:\Users\Hasib-ERP\Desktop\New folder\MasterDetails\MasterDetails\obj\Debug\MasterDetails.pdb
